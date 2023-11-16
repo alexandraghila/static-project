@@ -44,14 +44,14 @@ header {
 }
 
 header > h1 {
-  padding-top: 25%;
+  padding-top: 10%;
 }
 
 /* header > h1 {
   border: 5px solid black;
   padding-bottom: 5px;
   background-color: white;
-} */
+}*/
 
 /* -------------------------------------------------------------------------- */
 /*                                    Main                                    */
@@ -101,6 +101,12 @@ main a {
   -webkit-text-stroke: 0px black;
   font-size: 100%;
   display: block;
+}
+
+.indent {
+  text-indent: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 /* -------------------------------------------------------------------------- */
